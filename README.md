@@ -1,5 +1,4 @@
 # Text-Based-Emotion-Detection-using-Natural-Language-Processing-NLP
-# Text-Based-Emotion-Detection-using-Natural-Language-Processing-NLP
 Overview
 With the increasing reliance on digital communication, understanding human emotions in text is essential for applications in customer feedback analysis, mental health monitoring, sentiment analysis, and chatbot interactions. This project introduces a machine learning-based emotion detection system that classifies text into various emotional categories such as joy, sadness, anger, fear, surprise, and neutrality.
 
