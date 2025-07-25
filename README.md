@@ -51,7 +51,7 @@ This example corresponds to the **Sadness** emotion.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-emotion-classification.git
+git clone https://github.com/Balakishan3656/text-emotion-classification.git
 cd text-emotion-classification
 ```
 
