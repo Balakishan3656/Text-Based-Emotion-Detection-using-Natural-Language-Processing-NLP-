@@ -1,9 +1,9 @@
 
-# 🧠 Text Emotion Classification
+# Text Emotion Classification
 
 This repository contains a project focused on classifying human emotions from text using natural language processing (NLP) and machine learning techniques. It uses a dataset of real-life experiences labeled with different emotions to train a model capable of understanding emotional context in text.
 
-## 📚 Dataset
+## Dataset
 
 The dataset used in this project is `textemotion.txt`, which contains sentences annotated with **one-hot encoded labels** representing one of the following **seven emotions**:
 
@@ -23,12 +23,12 @@ Each line in the dataset looks like this:
 ```
 This example corresponds to the **Sadness** emotion.
 
-## 📁 Files
+## Files
 
 - `text emotion.ipynb`: Jupyter Notebook containing all code for preprocessing, training, and evaluation.
 - `textemotion.txt`: Text dataset with emotional sentences and corresponding labels.
 
-## ⚙️ Features
+## Features
 
 - Text preprocessing:
   - Lowercasing
@@ -46,7 +46,7 @@ This example corresponds to the **Sadness** emotion.
   - Precision, Recall, F1-score
   - Confusion Matrix
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -79,21 +79,21 @@ jupyter notebook "text emotion.ipynb"
 
 Run all cells to train and evaluate the emotion classification model.
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Use pre-trained word embeddings like **Word2Vec**, **GloVe**, or **FastText**
 - Implement deep learning models like **LSTM** or **BERT**
 - Build a real-time emotion detection web app using **Flask** or **Django**
 - Perform multi-label classification (some experiences may evoke multiple emotions)
 
-## 💡 Applications
+## Applications
 
 - Mental health and emotion monitoring
 - Sentiment and opinion mining
 - Social media analytics
 - Customer support and chatbot systems
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome!
 
@@ -103,10 +103,10 @@ Contributions, suggestions, and improvements are welcome!
 4. Push to the branch (`git push origin feature/awesome-feature`)
 5. Open a pull request
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 📬 Contact
+## Contact
 
 For any questions, reach out to the project maintainer via GitHub or open an issue in the repository.
